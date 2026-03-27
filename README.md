@@ -32,4 +32,17 @@ celexpress/
 ├── package.json
 ├── README.md
 ├── .gitignore
+
+
+```
+
+
+
+## TEACH STACK 
+| Package       | Purpose                                               | Notes                                                                       |
+| ------------- | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **inquirer**  | Interactive prompts in the terminal                   | Very popular and flexible; supports lists, checkboxes, confirmations, input |
+| **prompts**   | Lightweight alternative to Inquirer                   | Faster and minimal                                                          |
+| **commander** | Command parsing (`cex create`, `cex make:controller`) | Industry standard CLI framework; integrates well with Node                  |
+
 └── LICENSE
