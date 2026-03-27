@@ -15,11 +15,8 @@
 3. [Usage](#usage)
 4. [CLI Commands](#cli-commands)
 5. [Project Folder Structure](#project-folder-structure)
-6. [Templates](#templates)
-7. [Configuration](#configuration)
-8. [Contribution](#contribution)
-9. [License](#license)
-10. [Roadmap](#roadmap)
+6. [License](#license)
+7. [Roadmap](#roadmap)
 
 ---
 
