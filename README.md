@@ -191,4 +191,4 @@ MIT License © 2026 <San Tola>
 
 ---
 
-**Celexpress** — *Fast & Simple Express.js Project Generator CLI*
+**ezyExpres-cli** — *Fast & Simple Express.js Project Generator CLI*
